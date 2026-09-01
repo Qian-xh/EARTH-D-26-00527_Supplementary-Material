@@ -1,4 +1,4 @@
-# EARTH-D-26-00527_Supplementary-Material #1 Literature search, screening, and study selection
+# EARTH-D-26-00527_Supplementary-Material
 
 Article title: Root-induced preferential flow in the critical zone: Tbservations, processes, mechanisms and modelling
 
